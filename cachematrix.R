@@ -6,6 +6,7 @@
 #set the value of the inverse
 #get the value of the inverse
 
+# Based on R.D.Peng's examplecode and explanation
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
