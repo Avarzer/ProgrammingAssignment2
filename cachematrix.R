@@ -1,12 +1,8 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-
 # Below are two functions that are used to create a special object that stores a matrix and caches its inverse.
 
-#The first function, makeVector creates a special "vector", which is really a list containing a function to
-#set the value of the vector
-#get the value of the vector
+#The first function, makeCacheMatrix creates a special "matrix", which is really a list containing a function to
+#set the value of the matrix
+#get the value of the matrix
 #set the value of the inverse
 #get the value of the inverse
 
